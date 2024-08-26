@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1715150239 source:c:\users\chris\school files 1st year\122 prog2\codeblocks\studyquiz\arrays\countdupsp5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"countDups.h"
+
+1715150239 c:\users\chris\school files 1st year\122 prog2\codeblocks\studyquiz\arrays\countdupsp5\countdups.h
+
+1715150298 source:c:\users\chris\school files 1st year\122 prog2\codeblocks\studyquiz\arrays\countdupsp5\countdups.c
+	<stdio.h>
+	<stdlib.h>
+

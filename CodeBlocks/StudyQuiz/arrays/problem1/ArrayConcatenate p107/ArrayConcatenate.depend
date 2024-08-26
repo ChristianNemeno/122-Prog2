@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1715003562 source:c:\users\chris\school files 1st year\122 prog2\codeblocks\studyquiz\arrays\problem1\arrayconcatenate\concatenate.c
+	<stdio.h>
+	<stdlib.h>
+
+1715003363 source:c:\users\chris\school files 1st year\122 prog2\codeblocks\studyquiz\arrays\problem1\arrayconcatenate\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1715003562 source:c:\users\chris\school files 1st year\122 prog2\codeblocks\studyquiz\arrays\problem1\arrayconcatenate p107\concatenate.c
+	<stdio.h>
+	<stdlib.h>
+
+1715003585 source:c:\users\chris\school files 1st year\122 prog2\codeblocks\studyquiz\arrays\problem1\arrayconcatenate p107\main.c
+	<stdio.h>
+	<stdlib.h>
+	"concatenate.h"
+
+1715003553 c:\users\chris\school files 1st year\122 prog2\codeblocks\studyquiz\arrays\problem1\arrayconcatenate p107\concatenate.h
+

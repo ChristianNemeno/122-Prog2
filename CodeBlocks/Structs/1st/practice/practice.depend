@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714538534 source:c:\users\chris\school files 1st year\122 prog2\codeblocks\structs\1st\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
